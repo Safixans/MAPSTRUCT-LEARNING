@@ -11,6 +11,6 @@ import lombok.*;
 @AllArgsConstructor
 public class AddressDTO {
     private String city;
-    private Integer apartment;
+    private String apartment;
 
 }

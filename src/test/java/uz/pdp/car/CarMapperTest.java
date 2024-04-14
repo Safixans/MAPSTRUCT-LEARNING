@@ -1,4 +1,4 @@
-package uz.pdp;
+package uz.pdp.car;
 
 import org.junit.jupiter.api.Test;
 import uz.pdp.car.Car;

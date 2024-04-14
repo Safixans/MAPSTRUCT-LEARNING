@@ -20,5 +20,5 @@ public class Person {
 
 
     private String personPassportSerial;
-    private String personPassporNumber;
+    private String personPassportNumber;
 }
